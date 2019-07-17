@@ -17,7 +17,7 @@ class ContratoController extends Controller
     public function index()
     {
         //
-        //$clientes=Cliente::all();
+        
         $datos['contratos']=Contrato::paginate(12);//Paginación donde se ve los datos de hasta 5 registros
         return view('contrato.index',$datos,compact('clientes'));
         
