@@ -6,6 +6,9 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
+## Proyecto
+Consiste en la creación de contratos asociados a un cliente y  al finalizar aparecerá un reporte con cada uno  de los nombres de los clientes y los montos totales.
+
 
 ## About Laravel
 
